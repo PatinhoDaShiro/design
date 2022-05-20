@@ -1,0 +1,59 @@
+
+#logo{
+
+    margin-bottom: 2rem;
+}
+.bg-pink{
+    background-color: #f04688;
+    margin-bottom: 20px;
+}
+.btn-inscricao{
+    background-color: #fff;
+    font-family: Verdana, Geneva, sans-serif, 'IBM Plex Sans', arial, sans-serif;
+    font-size: 12px;
+    color: #f04688;
+    font-style: bold;
+    border-radius: 100px;
+}
+
+.titulo{
+    padding: 20px;
+}
+
+.titulo h1{
+   color:#fff;
+   font-weight: bold;
+   font-family: 'Montserrat', sans-serif;
+   font-size: 35px;
+}
+
+.sub-titulo{
+    padding: 20px;
+}
+
+.preto{
+    background-color: #000;
+}
+#fotter{
+    display: flex;
+   
+}
+#logof{
+    margin-left: 4rem;
+}
+#hermes{
+font-size: 2vh;
+margin-left: 4.5rem;
+}
+#politica{
+    margin-left: 43rem;
+    margin-top: 1.5rem;
+    font-size: 2vh;
+}
+#botao{
+    background-color:#f04688 ;
+    color: #fff;
+    border: none;
+    border-radius: 2vh;
+    padding: 1vh;
+}
